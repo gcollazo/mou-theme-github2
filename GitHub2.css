@@ -122,6 +122,8 @@ body blockquote>:last-child {
 }
 body table {
     padding: 0;
+    border-collapse: collapse;
+    border-spacing: 0px;
 }
 body table tr {
     border-top: 1px solid #ccc;
