@@ -278,6 +278,6 @@ pre {
 @media screen and (min-width: 914px) {
     body {
         width: 854px;
-        margin:0px auto;
+        margin:0 auto;
     }
 }
